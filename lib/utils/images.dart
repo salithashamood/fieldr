@@ -1,0 +1,13 @@
+String appLogo = 'assets/images/FieldR Logo.png';
+String appLogoSmall = 'assets/images/FieldR Logo small.png';
+String googleLogo = 'assets/images/google logo.png';
+String peopleIcon = 'assets/images/people icon.png';
+String loackIcon = 'assets/images/lock icon.png';
+String profileIcon = 'assets/images/Profile Icon.png';
+String notificationIcon = 'assets/images/Notification Icon.png';
+String hamburgerIcon = 'assets/images/Hamburger Icon.png';
+String homeIcon = 'assets/images/Home Icon.png';
+String statsIcon = 'assets/images/Stats Icon.png';
+String newIcon = 'assets/images/New Icon.png';
+String matchesIcon = 'assets/images/Matches Icon.png';
+String newsIcon = 'assets/images/News Icon.png';
